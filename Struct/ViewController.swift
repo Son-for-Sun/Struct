@@ -60,6 +60,7 @@ class ViewController: UIViewController {
     
     let item = ["东","西","南","北","中"]
     
+    /// 我发现优势的风格定时关机
     let segment = UISegmentedControl(items: item)
     segment.frame = CGRectMake(0, 64, view.frame.width, 45)
     segment.selectedSegmentIndex = 0

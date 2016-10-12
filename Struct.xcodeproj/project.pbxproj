@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F916A7A1DAE3F2500C01A9D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F916A791DAE3F2500C01A9D /* TableViewController.swift */; };
 		2FD33D7D1D92634E00863C9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD33D7C1D92634E00863C9E /* AppDelegate.swift */; };
 		2FD33D7F1D92634E00863C9E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD33D7E1D92634E00863C9E /* ViewController.swift */; };
 		2FD33D821D92634E00863C9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FD33D801D92634E00863C9E /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		10A54B225C9B5D71731A68EE /* Pods_Struct.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Struct.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F916A791DAE3F2500C01A9D /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		2FD33D791D92634E00863C9E /* Struct.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Struct.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FD33D7C1D92634E00863C9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FD33D7E1D92634E00863C9E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 			children = (
 				2FD33D7C1D92634E00863C9E /* AppDelegate.swift */,
 				2FD33D7E1D92634E00863C9E /* ViewController.swift */,
+				2F916A791DAE3F2500C01A9D /* TableViewController.swift */,
 				2FD33D801D92634E00863C9E /* Main.storyboard */,
 				2FD33D831D92634E00863C9E /* Assets.xcassets */,
 				2FD33D851D92634E00863C9E /* LaunchScreen.storyboard */,
@@ -332,6 +335,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FD33D7F1D92634E00863C9E /* ViewController.swift in Sources */,
+				2F916A7A1DAE3F2500C01A9D /* TableViewController.swift in Sources */,
 				2FD33D7D1D92634E00863C9E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
